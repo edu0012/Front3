@@ -1,2 +1,5 @@
-# Front3
-prueba front
+## Para correr el proyecto
+
+`npm install`
+
+`npm run dev`
